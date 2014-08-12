@@ -1,0 +1,14 @@
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\bin\Debug\DXWinFormsTester.exe
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\bin\Debug\DXWinFormsTester.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\obj\Debug\DXWinFormsTester.csprojResolveAssemblyReference.cache
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\obj\Debug\DXWinFormsTester.SortAlgorithmsTesterForm.resources
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\obj\Debug\DXWinFormsTester.Properties.Resources.resources
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\obj\Debug\DXWinFormsTester.csproj.GenerateResource.Cache
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\obj\Debug\DXWinFormsTester.exe.licenses
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\obj\Debug\DXWinFormsTester.exe
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\obj\Debug\DXWinFormsTester.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\bin\Debug\SorterUtility.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\bin\Debug\SortingAlgorithms.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\bin\Debug\SorterUtility.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\bin\Debug\SortingAlgorithms.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\DXWinFormsTester\bin\Debug\SortingAlgorithms.xml

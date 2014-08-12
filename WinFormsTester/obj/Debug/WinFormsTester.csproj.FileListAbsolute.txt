@@ -1,0 +1,14 @@
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\obj\Debug\WinFormsTester.csprojResolveAssemblyReference.cache
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\obj\Debug\WinFormsTester.Properties.Resources.resources
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\obj\Debug\WinFormsTester.csproj.GenerateResource.Cache
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\WinFormsTester.exe
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\WinFormsTester.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\SorterUtility.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\SortingAlgorithms.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\SorterUtility.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\SortingAlgorithms.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\SortingAlgorithms.xml
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\obj\Debug\WinFormsTester.exe
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\obj\Debug\WinFormsTester.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\bin\Debug\WinFormsTester.exe.config
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\WinFormsTester\obj\Debug\WinFormsTester.formSortAlgorithmTester.resources

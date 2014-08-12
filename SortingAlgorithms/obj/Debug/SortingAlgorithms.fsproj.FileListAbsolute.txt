@@ -1,0 +1,7 @@
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.XML
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SortingAlgorithms\bin\Debug\FSharp.Core.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SortingAlgorithms\bin\Debug\FSharp.Core.xml
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb

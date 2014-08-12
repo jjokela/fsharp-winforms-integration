@@ -1,0 +1,11 @@
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\ConsoleTester.exe
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\ConsoleTester.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\obj\Debug\ConsoleTester.csprojResolveAssemblyReference.cache
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\obj\Debug\ConsoleTester.exe
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\obj\Debug\ConsoleTester.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\SortingAlgorithms.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\SortingAlgorithms.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\SortingAlgorithms.xml
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\ConsoleTester.exe.config
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\SorterUtility.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\ConsoleTester\bin\Debug\SorterUtility.pdb

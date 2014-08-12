@@ -1,0 +1,8 @@
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\bin\Debug\SorterUtility.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\bin\Debug\SorterUtility.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\bin\Debug\SortingAlgorithms.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\bin\Debug\SortingAlgorithms.pdb
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\bin\Debug\SortingAlgorithms.xml
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\obj\Debug\SorterUtility.csprojResolveAssemblyReference.cache
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\obj\Debug\SorterUtility.dll
+C:\Users\fijarjoke\Documents\Visual Studio 2013\Projects\F#\SortingAlgorithms\SorterUtility\obj\Debug\SorterUtility.pdb

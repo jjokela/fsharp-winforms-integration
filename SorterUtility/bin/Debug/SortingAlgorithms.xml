@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>SortingAlgorithms</name></assembly>
+<members>
+<member name="">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:SortingAlgorithms.QuickSort">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:SortingAlgorithms.MergeSort">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:SortingAlgorithms.SelectionSort">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:SortingAlgorithms.InsertionSort">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:SortingAlgorithms.BubbleSort">
+
+</member>
+<member name="">
+
+</member>
+<member name="T:SortingAlgorithms.Utils">
+
+</member>
+</members>
+</doc>
